@@ -122,6 +122,10 @@ nav{
     color:#2B2B2B;
 }
 
+.head-container > div{
+    
+}
+
 .text-container p:nth-child(1){
     position: absolute;
     left: 11.02%;
@@ -136,24 +140,6 @@ nav{
     line-height: 73px;
 
     color: #000000;
-}
-
-.text-container img{
-    height: 66.99999864613048px;
-    width: 69.99999858550945px;
-    left: 322.608154296875px;
-    top: 220.56390380859375px;
-    border-radius: 0px;
-    
-
-    position: absolute;
-    left: 28%;
-    right: 65.92%;
-    top: 47.23%;
-    bottom: 38.42%;
-
-    background: url(image.png);
-    transform: rotate(-23.28deg);
 }
 
 .why{
